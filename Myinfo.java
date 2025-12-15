@@ -9,7 +9,7 @@ public class Myinfo {
 	short age = 21;
 	byte weight = 66;
 	int mobNo = 45678934;
-	double percent = 64.60;
+	float percent = 64.60f;
 	float height = 5.6f;
 	String panNo = "WXYZ345GJ";
 	long aadharNo = 123456789012l;
@@ -45,3 +45,4 @@ public class Myinfo {
 	}
 
 }
+
